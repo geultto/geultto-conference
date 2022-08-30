@@ -26,6 +26,7 @@
 - 이호성님의 [글또콘 후기](https://brunch.co.kr/@leehosung/58)
 - 글또콘을 준비해주신 조동민님의 [2022년 첫 번째! 글또콘 운영 후기](https://gibles-deepmind.tistory.com/145)
 - 발표자셨던 김학건님의 [글또콘 후기_Airflow Bad Pratices 발표](https://mightytedkim.tistory.com/156)
+- 권시연님의 [2022 글또콘](https://yeonyeon.tistory.com/261)
 
 ### 결과
 - 글또 7기 활동 기수(182명) 중 50%(90명)가 신청했으며, 신청자 중 86%(78명)가 참석
